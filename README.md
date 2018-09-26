@@ -1,2 +1,2 @@
 # Exercise-From-Gen
-a coding exercise I did
+a webpage coding exercise I did
