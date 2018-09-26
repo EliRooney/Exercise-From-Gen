@@ -1,0 +1,111 @@
+body
+{
+	font-size: 18px;
+	font-family: "Open Sans";
+	align-items: center;
+}
+
+h1 /*ELK WEB DESIGN*/
+{
+	font-size: 36px;
+	margin-left: 20px;
+	border-bottom-color: black;
+}
+
+h2 /*ABOUT...SERVICES*/
+{
+	font-size: 27px;
+	padding-top: 14px;
+	padding-bottom: 14px;
+	color: #fffebb;
+	border-bottom-color: #fffebb;
+}
+
+h1, h2
+{
+	text-transform: uppercase;
+	display: inline-block;
+	font-weight: 800;
+	border-bottom: 4px solid;
+}
+
+img
+{
+	display: block;
+	margin: 0;
+	width: 480px;
+	margin-left: 400px;
+}
+
+ul /*List at the bottom*/
+{
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
+footer /*copyright info*/
+{
+	text-align: center;
+	padding: 18px 0;
+	clear: both;
+}
+/*The navs in the header for the link list...work,about,contact*/
+nav
+{
+	font-size: 24px;
+	float: right;
+}
+
+nav a
+{
+	text-decoration: none;
+	color: black;
+	margin-right: 30px;
+	margin-left: 30px;
+	margin-top: 40px;
+	margin-bottom: 13px;
+	display: inline-block;
+}
+/*div*/
+div
+{
+	font-size: 20px;
+	width: 46%;
+	padding: 2%;
+}
+
+div.About
+{
+	float: left;
+}
+
+div.Services
+{
+	float: right;
+}
+div.hero
+{
+	width: 100%;
+	display: block;
+	margin: 0;
+	align-items: center;
+}
+/*li...HTML, CSS, Responsive, Visual Design*/
+li
+{
+	float: left;
+	width: 50%;
+	height: 96px;
+	outline: 3px solid #222222;
+	text-align: center;
+	color: black;
+	background: white; 
+}
+/*covers the middle 2 divs*/
+section
+{
+	background-color: #222222;
+	color: white;
+	overflow: auto;
+}
